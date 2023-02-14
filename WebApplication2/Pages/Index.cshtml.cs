@@ -20,7 +20,7 @@ namespace WebApplication2.Pages
 
         public void OnGet()
         {
-
+            Console.WriteLine("Hello");
         }
     }
 }
